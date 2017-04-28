@@ -1,0 +1,7 @@
+img {
+	display: block;
+	margin: auto;
+}
+
+.right {
+	transform: scaleX(-1);
